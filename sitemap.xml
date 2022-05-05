@@ -17,7 +17,23 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://florentino-73.github.io/post/2022meisai/</loc>
+    <loc>http://florentino-73.github.io/post/%E6%88%91%E7%9A%842022%E7%BE%8E%E8%B5%9B%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2022-05-05T20:51:34+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://florentino-73.github.io/post/example/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://florentino-73.github.io/tags/scene/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://florentino-73.github.io/tags/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -30,10 +46,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://florentino-73.github.io/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://florentino-73.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
